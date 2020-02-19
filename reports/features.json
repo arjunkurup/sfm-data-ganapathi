@@ -1,0 +1,545 @@
+{
+    "wall_time": 4.004291672999898,
+    "image_reports": [
+        {
+            "image": "img-2020-02-17-20-42-26-255.jpg",
+            "num_features": 4595,
+            "wall_time": 5.169874900020659
+        },
+        {
+            "image": "img-2020-02-17-20-43-12-504.jpg",
+            "num_features": 4679,
+            "wall_time": 5.005366400000639
+        },
+        {
+            "image": "img-2020-02-17-20-43-20-650.jpg",
+            "num_features": 4784,
+            "wall_time": 5.231030800030567
+        },
+        {
+            "image": "img-2020-02-17-20-42-55-319.jpg",
+            "num_features": 4727,
+            "wall_time": 5.4263930000015534
+        },
+        {
+            "image": "img-2020-02-17-20-43-49-958.jpg",
+            "num_features": 4629,
+            "wall_time": 13.738320400007069
+        },
+        {
+            "image": "img-2020-02-17-20-42-33-463.jpg",
+            "num_features": 4701,
+            "wall_time": 13.345747900020797
+        },
+        {
+            "image": "img-2020-02-17-20-43-23-143.jpg",
+            "num_features": 4873,
+            "wall_time": 12.82776830001967
+        },
+        {
+            "image": "img-2020-02-17-20-43-41-223.jpg",
+            "num_features": 4675,
+            "wall_time": 10.345903900044505
+        },
+        {
+            "image": "img-2020-02-17-20-43-58-591.jpg",
+            "num_features": 4960,
+            "wall_time": 11.932709600019734
+        },
+        {
+            "image": "img-2020-02-17-20-43-54-986.jpg",
+            "num_features": 4751,
+            "wall_time": 10.755058100039605
+        },
+        {
+            "image": "img-2020-02-17-20-42-53-439.jpg",
+            "num_features": 4827,
+            "wall_time": 11.745004999975208
+        },
+        {
+            "image": "img-2020-02-17-20-42-03-396.jpg",
+            "num_features": 4669,
+            "wall_time": 10.812541500024963
+        },
+        {
+            "image": "img-2020-02-17-20-43-33-829.jpg",
+            "num_features": 4667,
+            "wall_time": 11.551682399993297
+        },
+        {
+            "image": "img-2020-02-17-20-42-19-256.jpg",
+            "num_features": 4727,
+            "wall_time": 10.977335100003984
+        },
+        {
+            "image": "img-2020-02-17-20-43-31-525.jpg",
+            "num_features": 4672,
+            "wall_time": 11.558810600021388
+        },
+        {
+            "image": "img-2020-02-17-20-42-45-054.jpg",
+            "num_features": 4786,
+            "wall_time": 12.268279500014614
+        },
+        {
+            "image": "img-2020-02-17-20-43-15-026.jpg",
+            "num_features": 4660,
+            "wall_time": 11.677328800025862
+        },
+        {
+            "image": "img-2020-02-17-20-42-42-217.jpg",
+            "num_features": 4690,
+            "wall_time": 10.507485100009944
+        },
+        {
+            "image": "img-2020-02-17-20-43-06-870.jpg",
+            "num_features": 4698,
+            "wall_time": 10.89900650002528
+        },
+        {
+            "image": "img-2020-02-17-20-43-53-526.jpg",
+            "num_features": 4730,
+            "wall_time": 10.815704599954188
+        },
+        {
+            "image": "img-2020-02-17-20-43-29-078.jpg",
+            "num_features": 4793,
+            "wall_time": 6.8028257000260055
+        },
+        {
+            "image": "img-2020-02-17-20-43-57-498.jpg",
+            "num_features": 4883,
+            "wall_time": 6.905328799970448
+        },
+        {
+            "image": "img-2020-02-17-20-43-32-124.jpg",
+            "num_features": 4662,
+            "wall_time": 6.898660000006203
+        },
+        {
+            "image": "img-2020-02-17-20-43-09-267.jpg",
+            "num_features": 4720,
+            "wall_time": 6.9362917999969795
+        },
+        {
+            "image": "img-2020-02-17-20-42-47-524.jpg",
+            "num_features": 4886,
+            "wall_time": 7.1042384000029415
+        },
+        {
+            "image": "img-2020-02-17-20-43-48-526.jpg",
+            "num_features": 4690,
+            "wall_time": 11.311944799963385
+        },
+        {
+            "image": "img-2020-02-17-20-42-54-342.jpg",
+            "num_features": 4721,
+            "wall_time": 12.439894200011622
+        },
+        {
+            "image": "img-2020-02-17-20-43-00-310.jpg",
+            "num_features": 4588,
+            "wall_time": 11.474063499947079
+        },
+        {
+            "image": "img-2020-02-17-20-42-36-791.jpg",
+            "num_features": 4678,
+            "wall_time": 10.693908099958207
+        },
+        {
+            "image": "img-2020-02-17-20-43-36-313.jpg",
+            "num_features": 4573,
+            "wall_time": 12.206594899995252
+        },
+        {
+            "image": "img-2020-02-17-20-43-40-290.jpg",
+            "num_features": 4713,
+            "wall_time": 12.995059299981222
+        },
+        {
+            "image": "img-2020-02-17-20-42-17-315.jpg",
+            "num_features": 4812,
+            "wall_time": 12.765461199975107
+        },
+        {
+            "image": "img-2020-02-17-20-43-10-065.jpg",
+            "num_features": 4687,
+            "wall_time": 12.338685900031123
+        },
+        {
+            "image": "img-2020-02-17-20-43-36-891.jpg",
+            "num_features": 4613,
+            "wall_time": 12.11463540000841
+        },
+        {
+            "image": "img-2020-02-17-20-42-15-400.jpg",
+            "num_features": 4906,
+            "wall_time": 12.112349700008053
+        },
+        {
+            "image": "img-2020-02-17-20-43-41-888.jpg",
+            "num_features": 4705,
+            "wall_time": 12.412767899979372
+        },
+        {
+            "image": "img-2020-02-17-20-43-47-827.jpg",
+            "num_features": 4658,
+            "wall_time": 11.931213700037915
+        },
+        {
+            "image": "img-2020-02-17-20-42-07-909.jpg",
+            "num_features": 4696,
+            "wall_time": 7.925708599970676
+        },
+        {
+            "image": "img-2020-02-17-20-42-48-404.jpg",
+            "num_features": 4901,
+            "wall_time": 7.606721299991477
+        },
+        {
+            "image": "img-2020-02-17-20-43-38-626.jpg",
+            "num_features": 4675,
+            "wall_time": 7.046460599987768
+        },
+        {
+            "image": "img-2020-02-17-20-43-55-660.jpg",
+            "num_features": 4759,
+            "wall_time": 12.71011649997672
+        },
+        {
+            "image": "img-2020-02-17-20-43-19-855.jpg",
+            "num_features": 4724,
+            "wall_time": 11.714564000023529
+        },
+        {
+            "image": "img-2020-02-17-20-42-13-286.jpg",
+            "num_features": 4820,
+            "wall_time": 12.670490899996366
+        },
+        {
+            "image": "img-2020-02-17-20-43-18-267.jpg",
+            "num_features": 4734,
+            "wall_time": 13.35626470000716
+        },
+        {
+            "image": "img-2020-02-17-20-43-06-153.jpg",
+            "num_features": 4706,
+            "wall_time": 13.7162533000228
+        },
+        {
+            "image": "img-2020-02-17-20-42-30-317.jpg",
+            "num_features": 4714,
+            "wall_time": 12.90817850001622
+        },
+        {
+            "image": "img-2020-02-17-20-42-58-599.jpg",
+            "num_features": 4678,
+            "wall_time": 11.667215600027703
+        },
+        {
+            "image": "img-2020-02-17-20-42-22-790.jpg",
+            "num_features": 4676,
+            "wall_time": 12.083881099999417
+        },
+        {
+            "image": "img-2020-02-17-20-42-27-951.jpg",
+            "num_features": 4698,
+            "wall_time": 13.351862700015772
+        },
+        {
+            "image": "img-2020-02-17-20-43-45-519.jpg",
+            "num_features": 4693,
+            "wall_time": 12.253836700052489
+        },
+        {
+            "image": "img-2020-02-17-20-43-04-502.jpg",
+            "num_features": 4677,
+            "wall_time": 11.06289190001553
+        },
+        {
+            "image": "img-2020-02-17-20-42-05-796.jpg",
+            "num_features": 4707,
+            "wall_time": 11.449048400041647
+        },
+        {
+            "image": "img-2020-02-17-20-42-16-482.jpg",
+            "num_features": 4849,
+            "wall_time": 11.486941000039224
+        },
+        {
+            "image": "img-2020-02-17-20-43-35-768.jpg",
+            "num_features": 4584,
+            "wall_time": 10.628796399978455
+        },
+        {
+            "image": "img-2020-02-17-20-43-33-275.jpg",
+            "num_features": 4643,
+            "wall_time": 11.17834549996769
+        },
+        {
+            "image": "img-2020-02-17-20-42-57-937.jpg",
+            "num_features": 4629,
+            "wall_time": 11.259847299952526
+        },
+        {
+            "image": "img-2020-02-17-20-43-25-231.jpg",
+            "num_features": 4845,
+            "wall_time": 12.303546999988612
+        },
+        {
+            "image": "img-2020-02-17-20-42-49-154.jpg",
+            "num_features": 4823,
+            "wall_time": 11.46410929999547
+        },
+        {
+            "image": "img-2020-02-17-20-43-46-432.jpg",
+            "num_features": 4691,
+            "wall_time": 11.66549370001303
+        },
+        {
+            "image": "img-2020-02-17-20-43-42-764.jpg",
+            "num_features": 4719,
+            "wall_time": 10.611545799998567
+        },
+        {
+            "image": "img-2020-02-17-20-43-27-240.jpg",
+            "num_features": 4940,
+            "wall_time": 11.907811100012623
+        },
+        {
+            "image": "img-2020-02-17-20-42-06-865.jpg",
+            "num_features": 4689,
+            "wall_time": 11.452027699968312
+        },
+        {
+            "image": "img-2020-02-17-20-42-23-754.jpg",
+            "num_features": 4633,
+            "wall_time": 11.131752300017979
+        },
+        {
+            "image": "img-2020-02-17-20-42-43-537.jpg",
+            "num_features": 4721,
+            "wall_time": 8.248440399998799
+        },
+        {
+            "image": "img-2020-02-17-20-42-21-084.jpg",
+            "num_features": 4648,
+            "wall_time": 8.490581099991687
+        },
+        {
+            "image": "img-2020-02-17-20-43-52-953.jpg",
+            "num_features": 4720,
+            "wall_time": 8.048374900012277
+        },
+        {
+            "image": "img-2020-02-17-20-43-17-411.jpg",
+            "num_features": 4674,
+            "wall_time": 8.269948999979533
+        },
+        {
+            "image": "img-2020-02-17-20-42-35-311.jpg",
+            "num_features": 4667,
+            "wall_time": 7.921951700001955
+        },
+        {
+            "image": "img-2020-02-17-20-42-42-862.jpg",
+            "num_features": 4695,
+            "wall_time": 8.177561499993317
+        },
+        {
+            "image": "img-2020-02-17-20-43-47-156.jpg",
+            "num_features": 4696,
+            "wall_time": 12.598158999986481
+        },
+        {
+            "image": "img-2020-02-17-20-43-34-423.jpg",
+            "num_features": 4648,
+            "wall_time": 11.683343199954834
+        },
+        {
+            "image": "img-2020-02-17-20-43-26-526.jpg",
+            "num_features": 4906,
+            "wall_time": 12.342895500012673
+        },
+        {
+            "image": "img-2020-02-17-20-43-52-159.jpg",
+            "num_features": 4679,
+            "wall_time": 12.373989000043366
+        },
+        {
+            "image": "img-2020-02-17-20-43-16-601.jpg",
+            "num_features": 4658,
+            "wall_time": 11.84479270002339
+        },
+        {
+            "image": "img-2020-02-17-20-43-07-611.jpg",
+            "num_features": 4681,
+            "wall_time": 12.631895400001667
+        },
+        {
+            "image": "img-2020-02-17-20-42-41-020.jpg",
+            "num_features": 4672,
+            "wall_time": 12.274039199983235
+        },
+        {
+            "image": "img-2020-02-17-20-43-24-636.jpg",
+            "num_features": 4854,
+            "wall_time": 12.515346500033047
+        },
+        {
+            "image": "img-2020-02-17-20-42-51-801.jpg",
+            "num_features": 4905,
+            "wall_time": 12.241189899970777
+        },
+        {
+            "image": "img-2020-02-17-20-42-56-991.jpg",
+            "num_features": 4656,
+            "wall_time": 12.220199199975468
+        },
+        {
+            "image": "img-2020-02-17-20-42-25-349.jpg",
+            "num_features": 4591,
+            "wall_time": 12.478020199981984
+        },
+        {
+            "image": "img-2020-02-17-20-42-38-424.jpg",
+            "num_features": 4596,
+            "wall_time": 12.081297099997755
+        },
+        {
+            "image": "img-2020-02-17-20-43-01-236.jpg",
+            "num_features": 4576,
+            "wall_time": 11.958514600002673
+        },
+        {
+            "image": "img-2020-02-17-20-43-28-448.jpg",
+            "num_features": 4862,
+            "wall_time": 12.619669399980921
+        },
+        {
+            "image": "img-2020-02-17-20-43-02-122.jpg",
+            "num_features": 4590,
+            "wall_time": 11.041484200046398
+        },
+        {
+            "image": "img-2020-02-17-20-43-11-619.jpg",
+            "num_features": 4675,
+            "wall_time": 10.91125629999442
+        },
+        {
+            "image": "img-2020-02-17-20-42-01-932.jpg",
+            "num_features": 4631,
+            "wall_time": 10.859851800021715
+        },
+        {
+            "image": "img-2020-02-17-20-43-21-500.jpg",
+            "num_features": 4852,
+            "wall_time": 11.021407500025816
+        },
+        {
+            "image": "img-2020-02-17-20-43-39-328.jpg",
+            "num_features": 4683,
+            "wall_time": 10.945620900020003
+        },
+        {
+            "image": "img-2020-02-17-20-43-30-934.jpg",
+            "num_features": 4745,
+            "wall_time": 11.951388799992856
+        },
+        {
+            "image": "img-2020-02-17-20-42-20-192.jpg",
+            "num_features": 4678,
+            "wall_time": 11.63358679995872
+        },
+        {
+            "image": "img-2020-02-17-20-42-35-951.jpg",
+            "num_features": 4680,
+            "wall_time": 10.522285799961537
+        },
+        {
+            "image": "img-2020-02-17-20-42-27-115.jpg",
+            "num_features": 4652,
+            "wall_time": 6.013612600043416
+        },
+        {
+            "image": "img-2020-02-17-20-42-10-072.jpg",
+            "num_features": 4873,
+            "wall_time": 6.36782869999297
+        },
+        {
+            "image": "img-2020-02-17-20-42-39-354.jpg",
+            "num_features": 4662,
+            "wall_time": 5.441112599975895
+        },
+        {
+            "image": "img-2020-02-17-20-43-29-728.jpg",
+            "num_features": 4768,
+            "wall_time": 6.3029428999871016
+        },
+        {
+            "image": "img-2020-02-17-20-43-37-434.jpg",
+            "num_features": 4658,
+            "wall_time": 12.872095900005661
+        },
+        {
+            "image": "img-2020-02-17-20-43-03-679.jpg",
+            "num_features": 4654,
+            "wall_time": 12.298220000055153
+        },
+        {
+            "image": "img-2020-02-17-20-42-32-723.jpg",
+            "num_features": 4689,
+            "wall_time": 12.673653200035915
+        },
+        {
+            "image": "img-2020-02-17-20-42-31-804.jpg",
+            "num_features": 4696,
+            "wall_time": 13.653151100035757
+        },
+        {
+            "image": "img-2020-02-17-20-43-14-163.jpg",
+            "num_features": 4609,
+            "wall_time": 12.757143699971493
+        },
+        {
+            "image": "img-2020-02-17-20-42-29-579.jpg",
+            "num_features": 4679,
+            "wall_time": 12.699582599976566
+        },
+        {
+            "image": "img-2020-02-17-20-42-11-128.jpg",
+            "num_features": 4954,
+            "wall_time": 12.94347330002347
+        },
+        {
+            "image": "img-2020-02-17-20-42-45-880.jpg",
+            "num_features": 4862,
+            "wall_time": 5.727753899991512
+        },
+        {
+            "image": "img-2020-02-17-20-43-43-711.jpg",
+            "num_features": 4669,
+            "wall_time": 5.508696999982931
+        },
+        {
+            "image": "img-2020-02-17-20-41-44-493.jpg",
+            "num_features": 4699,
+            "wall_time": 5.290648499969393
+        },
+        {
+            "image": "img-2020-02-17-20-41-43-404.jpg",
+            "num_features": 4770,
+            "wall_time": 5.239196299982723
+        },
+        {
+            "image": "img-2020-02-17-20-42-50-913.jpg",
+            "num_features": 4890,
+            "wall_time": 5.450546499982011
+        },
+        {
+            "image": "img-2020-02-17-20-43-50-599.jpg",
+            "num_features": 4670,
+            "wall_time": 2.075915499997791
+        }
+    ]
+}
